@@ -2,4 +2,7 @@
 function sutitZinu()
 {
     console.log('sutitZinu() darbojas');
+   let zina = document.querySelector('.manaZina').value;
+   let zinas = document.querySelector('.chataZinas');
+   zinas.innerHTML = zina.value;
 }
