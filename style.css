@@ -1,4 +1,14 @@
 body
  {
-    background: red ;
+    background: url(a1.jpg);
+}
+.wrapper
+{
+background: rgb(224, 227, 240);
+width: 500px;
+height:500px;
+border: 1px solid rgb(167, 172, 197);
+padding: 20px;
+margin:auto;
+
 }
