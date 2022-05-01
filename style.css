@@ -11,4 +11,22 @@ border: 1px solid rgb(167, 172, 197);
 padding: 20px;
 margin:auto;
 
+    /*zemāk paraugs vertik. un horizont. centrēšanai*/
+    position: absolute;
+    top:50%; margin-top:-250px;
+    left: 50%; margin-left:-250px;
+
+    /*bonus dekorācijas*/
+    font-family: Arial, Helvetica, sans-serif; /*fonti*/
+    border-radius: 10px; /*apaļi stūri*/
+    box-shadow: 3px 3px 15px#5E0000; /*ēna*/
+    opacity: 0.5; /*caurspīdīgums*/
+}
+.chataZinas
+{
+  background: whitesmoke;  
+  height: 300pt;
+  color:rgb(124, 8, 8);
+  padding: 5px;
+  overflow:scroll
 }
