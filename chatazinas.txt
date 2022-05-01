@@ -1,5 +1,5 @@
-Čau
-Es te esmu
-Kāds te ir?
-Kā tevi sauc?
-Pēcis!!!
+Čau <br/>
+Es te esmu <br/>
+Kāds te ir? <br/>
+Kā tevi sauc? <br/>
+Pēcis!!! <br/>
