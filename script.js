@@ -1,6 +1,6 @@
 const API = "https://Chat2022.irinaorlova3.repl.co"
 
-let zina = document.querySelector('.manaZina').value;
+let zina = document.querySelector('.manaZina');
 let zinas = document.querySelector('.chataZinas');
 
 function sutitZinu()
